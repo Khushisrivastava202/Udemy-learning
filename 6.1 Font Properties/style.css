@@ -1,0 +1,19 @@
+#color{
+    color: coral;
+}
+#first{
+    font-size: 3rem;
+}
+#font-weight{
+    font-weight: 900;
+}
+#font-family{
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+}
+#align{
+    text-align: end;
+}
+#id{
+    font-family: 'Inconsolata ';
+}

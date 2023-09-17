@@ -1,0 +1,27 @@
+div{
+   height: 200px;
+    width: 200px;
+}
+p{
+    margin: 0px;
+}
+#class1{
+    background: cadetblue;
+    border: 10px solid black;
+    padding: 20px;
+
+} 
+#class2{
+    background:gold;
+    margin: 0px 0px 0px 260px;
+    padding: 10px;
+    border: solid black;
+    border-width: 20px 10px;
+
+} 
+#class3{
+    background:indianred;
+    border: 10px solid black;
+    margin: 0px 0px 0px 40px;
+
+} 

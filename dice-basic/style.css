@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.apply-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.5fr 1fr;
+    width: 60%;
+    margin: 100px auto 0px auto;
+}
+h1{
+    margin-top: 50px;
+  color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}

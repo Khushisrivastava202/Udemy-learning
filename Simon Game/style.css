@@ -1,0 +1,24 @@
+.big-title{
+    font-size: 5rem;
+    color:aliceblue;
+    font-family: 'Press Start 2P', cursive;
+    margin: 5%;
+}
+body{
+    display: block;
+    text-align: center;
+    background-color: rgb(5, 1, 54);
+}
+.btn{
+    display: block;
+    margin: auto; 
+    width: 50%;
+}
+button{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+    border: 10px solid black;
+    margin: 25px;
+}
